@@ -1,0 +1,16 @@
+Feb 05, 2021 12:05:59 AM com.convocatoria.mod05.problema01.service.Bitacora main
+INFO: Bitacora inicializada
+Feb 05, 2021 12:05:59 AM com.convocatoria.mod05.problema01.service.Bitacora main
+INFO: Llamadas a los componentes del sistema
+Feb 05, 2021 12:05:59 AM com.convocatoria.mod05.problema01.service.Services calcGastosTotales
+INFO: El flete es correcto
+Feb 05, 2021 12:05:59 AM com.convocatoria.mod05.problema01.service.Services calcGastosTotales
+INFO: Calcula los gastos exitosamente
+Feb 05, 2021 12:05:59 AM com.convocatoria.mod05.problema01.service.Services calcGastosTotales
+INFO: El flete es correcto
+Feb 05, 2021 12:05:59 AM com.convocatoria.mod05.problema01.service.Services calcGastosTotales
+INFO: Calcula los gastos exitosamente
+Feb 05, 2021 12:05:59 AM com.convocatoria.mod05.problema01.service.Services calcIngresosTotales
+INFO: Calcula ingresos totales correctamente
+Feb 05, 2021 12:05:59 AM com.convocatoria.mod05.problema01.service.Bitacora main
+INFO: Probando manejo de excepciones
